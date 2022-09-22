@@ -32,3 +32,8 @@ export const deepChangeFileExtensionsName = (
     })
   })
 }
+
+export const foo = "foo"
+export default {
+  foo,
+}
